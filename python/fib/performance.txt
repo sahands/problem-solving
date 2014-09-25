@@ -1,0 +1,4 @@
+n = 10 ** 6
+Trying fib_matrix:	fib(n) has 208988 digits, took 0.24993 seconds.
+Trying fib_dynamic:	fib(n) has 208988 digits, took 11.83377 seconds.
+---
